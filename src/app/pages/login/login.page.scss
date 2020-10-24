@@ -1,0 +1,12 @@
+.spin{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 10vh;
+}
+ ion-spinner {
+    width: 75px;
+    height: 75px;
+    stroke: #444;
+    fill: #222;
+ }
