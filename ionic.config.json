@@ -1,5 +1,7 @@
 {
   "name": "cursoTrainingIT_ejercicio05_login",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
