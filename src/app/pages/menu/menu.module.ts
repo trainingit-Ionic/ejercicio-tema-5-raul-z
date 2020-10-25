@@ -8,6 +8,11 @@ import { MenuPage } from './menu.page';
 
 const routes: Routes = [
   {
+    path: '',
+    component: MenuPage
+  }
+  /*
+  {
     path: 'menu',
     component: MenuPage,
     children: [
@@ -20,7 +25,7 @@ const routes: Routes = [
   {
     path: '',
     redirectTo: 'home',
-  }
+  }*/
 ];
 
 @NgModule({
